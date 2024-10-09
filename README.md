@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @KianLian
-- 🌱 I’m currently learning game development
+# 👋 Hi, I’m @KianLian and
+- 🌱 I’m game developer
 
 ## My Projects:
 
