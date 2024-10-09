@@ -5,8 +5,8 @@
 
 <p align="center">
   <!-- Project 1 -->
-  <a href="https://github.com/KianLian/project1" style="display: inline-block; margin: 10px;">
-    <img src="https://github.com/KianLian/yourrepo/blob/main/images/project1.gif" alt="Project1" width="200"/>
+  <a href="[https://github.com/KianLian/AshesToAshes](https://github.com/KianLian/AshesToAshes)" style="display: inline-block; margin: 10px;">
+    <img src="https://github.com/KianLian/yourrepo/blob/main/images/project1.gif" alt="AshesToAshes" width="200"/>
     <br>
     <strong>Project 1</strong>
   </a>
