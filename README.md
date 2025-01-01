@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- AshesToAshes -->
-  <a href="https://github.com/KianLian/AshesToAshes" style="display: inline-block; margin: 10px;">
+  <a href="https://github.com/KianLian/AsheToAshe" style="display: inline-block; margin: 10px;">
     <img src="https://github.com/KianLian/yourrepo/blob/main/images/project1.gif" alt="AshesToAshes" width="200"/>
     <br>
     <strong>AshesToAshes</strong>
